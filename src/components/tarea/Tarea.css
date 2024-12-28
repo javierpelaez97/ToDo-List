@@ -1,0 +1,13 @@
+.hecha{
+    color:green;
+    text-decoration: line-through;
+    
+}
+.tarea-borrada{
+    color: red;
+    text-decoration: underline;
+}
+.disposicion-tarea{
+    display: flex;
+    justify-content: space-between;
+}
